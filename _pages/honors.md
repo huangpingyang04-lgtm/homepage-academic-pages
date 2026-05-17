@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /honors/
 title: "竞赛与荣誉"
 author_profile: true

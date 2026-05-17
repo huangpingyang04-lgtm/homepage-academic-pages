@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title: "个人简历"
 permalink: /cv/

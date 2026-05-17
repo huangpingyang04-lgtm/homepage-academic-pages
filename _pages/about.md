@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "黄平洋"
 author_profile: true

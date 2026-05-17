@@ -1,4 +1,4 @@
-﻿# 黄平洋个人学术主页（Academic Pages 版本）
+# 黄平洋个人学术主页（Academic Pages 版本）
 
 这是基于 [Academic Pages](https://github.com/academicpages/academicpages.github.io) 模板制作的个人学术主页版本，用于展示教育背景、科研经历、论文成果、竞赛荣誉、综合素质和联系方式。
 

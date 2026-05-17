@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /qualities/
 title: "综合素质"
 author_profile: true

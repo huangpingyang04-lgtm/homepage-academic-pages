@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /education/
 title: "教育背景"
 author_profile: true

@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /research/
 title: "科研经历"
 author_profile: true
