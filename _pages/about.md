@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div class="academic-home">
-  <img class="home-avatar" src="/images/profile.jpg" alt="黄平洋">
+  <img class="home-avatar" src="{{ site.baseurl }}/images/profile.jpg" alt="黄平洋">
 
   <p class="home-lead"><strong>大连理工大学光电信息科学与工程专业本科生</strong>，成绩排名<strong>专业第 1/84</strong>。主要关注<strong>新型半导体/光电器件、阻变存储器、第三代半导体微纳加工、分布式光纤传感智能识别与轻量化神经网络</strong>等方向。目前正在开展 <strong>Ag/GaN/ITO 忆阻器界面调控与阻变机理研究</strong>、<strong>基于多时频融合与器件映射轻量模型的 DAS 多事件识别研究</strong>，以及 <strong>GaN HEMT 微纳加工与微流控异质集成生物芯片研究</strong>，逐步形成“材料—器件—工艺—电路—算法”交叉融合的研究兴趣。</p>
 
@@ -17,11 +17,12 @@ author_profile: true
   </div>
 
   <div class="quick-links">
-    <a href="/education/">教育背景</a>
-    <a href="/research/">科研经历</a>
-    <a href="/publications/">论文与成果</a>
-    <a href="/honors/">竞赛与荣誉</a>
-    <a href="/qualities/">综合素质</a>
-    <a href="/files/cv.pdf">下载个人简历 PDF</a>
+    <a href="{{ site.baseurl }}/education/">教育背景</a>
+    <a href="{{ site.baseurl }}/research/">科研经历</a>
+    <a href="{{ site.baseurl }}/publications/">论文与成果</a>
+    <a href="{{ site.baseurl }}/honors/">竞赛与荣誉</a>
+    <a href="{{ site.baseurl }}/qualities/">综合素质</a>
+    <a href="{{ site.baseurl }}/files/cv.pdf">下载个人简历 PDF</a>
   </div>
 </div>
+

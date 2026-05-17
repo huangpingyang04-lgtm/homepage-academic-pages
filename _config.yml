@@ -15,7 +15,7 @@ name                     : &name "黄平洋"
 description              : &description "黄平洋的个人学术主页，用于展示教育背景、科研经历、论文成果、竞赛荣誉和联系方式。"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://huangpingyang04-lgtm.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/homepage-academic-pages" # 项目页部署路径；若改为用户名主页仓库再改回 ""
 repository               : "huangpingyang04-lgtm/homepage-academic-pages"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -359,4 +359,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
