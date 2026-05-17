@@ -7,9 +7,9 @@ author_profile: true
 <div class="academic-home">
   <img class="home-avatar" src="{{ site.baseurl }}/images/profile.jpg" alt="黄平洋">
 
-  <p class="home-lead"><strong>大连理工大学光电信息科学与工程专业本科生</strong>。主要关注<strong>新型半导体/光电器件、阻变存储器、第三代半导体微纳加工、分布式光纤传感智能识别与轻量化神经网络</strong>等方向。目前正在开展 <strong>Ag/GaN/ITO 忆阻器界面调控与阻变机理研究</strong>、<strong>基于多时频融合与器件映射轻量模型的 DAS 多事件识别研究</strong>，以及 <strong>GaN HEMT 微纳加工与微流控异质集成生物芯片研究</strong>，逐步形成“材料—器件—工艺—电路—算法”交叉融合的研究兴趣。</p>
+  <p class="home-lead"><strong>大连理工大学光电信息科学与工程专业本科生</strong>。主要关注<strong>新型半导体/光电器件、阻变存储器、第三代半导体微纳加工、分布式光纤传感智能识别与轻量化神经网络</strong>等方向。目前正在开展 <strong>Ag/GaN/ITO 忆阻器界面调控与阻变机理研究</strong>、<strong>基于多时频融合与器件映射轻量模型的 DAS 多事件识别研究</strong>，以及 <strong>GaN HEMT 微纳加工与微流控异质集成生物芯片研究</strong>。</p>
 
-  <p class="home-lead-en">I am an undergraduate student majoring in Optoelectronic Information Science and Engineering at Dalian University of Technology, with research interests in emerging semiconductor/optoelectronic devices, resistive memory, GaN-based micro/nano fabrication, distributed acoustic sensing, and lightweight intelligent models. My current research focuses on interface-engineered Ag/GaN/ITO memristors, DAS multi-event recognition with multi-time-frequency fusion and device-aware neural network mapping, and GaN HEMT-based microfluidic heterogeneous biochips. I am particularly interested in interdisciplinary research across materials, devices, circuits, physical computing, and intelligent algorithms.</p>
+  <p class="home-lead-en">I am an undergraduate student majoring in Optoelectronic Information Science and Engineering at Dalian University of Technology, with research interests in emerging semiconductor/optoelectronic devices, resistive memory, GaN-based micro/nano fabrication, distributed acoustic sensing, and lightweight intelligent models. My current research focuses on interface-engineered Ag/GaN/ITO memristors, DAS multi-event recognition with multi-time-frequency fusion and device-aware neural network mapping, and GaN HEMT-based microfluidic heterogeneous biochips.</p>
 
   <div class="contact-strip">
     <a href="mailto:hpy_dut@163.com"><strong>E-mail:</strong> hpy_dut@163.com</a>
