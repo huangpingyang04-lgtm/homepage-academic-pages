@@ -1,36 +1,22 @@
----
-layout: archive
-title: "Publications"
+﻿---
 permalink: /publications/
+title: "论文与成果"
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>论文</h2>
 
-{% include base_path %}
+<div class="publication-list">
+  <div class="publication-item"><span class="status-tag">投稿中</span><h3>后处理诱导界面 GaOxN1-x 层调控 Ag/GaN/ITO 忆阻器开关特性</h3><p><em>Journal of Materials Science: Materials in Electronics</em>（Q2 区）</p><p><strong>独立第一作者</strong></p></div>
+  <div class="publication-item"><span class="status-tag">进行中 / 拟投稿</span><h3>基于多时频融合与器件映射轻量模型的 DAS 多事件识别研究</h3><p>拟投稿 <em>Journal of Lightwave Technology</em>（Q1 区）</p><p><strong>独立第一作者</strong></p></div>
+  <div class="publication-item"><span class="status-tag">已接收</span><h3>基于实体状态微调的时序知识图谱长效预测框架研究</h3><p>ACL 2026，CCF-A</p><p><strong>第二作者</strong></p></div>
+</div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>专利</h2>
+<div class="note-band"><strong>国家发明专利公开一项：</strong>CN120169453A，角色：<strong>第一发明人</strong>。</div>
 
-
-
+<h2>软件著作权</h2>
+<div class="academic-grid">
+  <div class="academic-card"><h3>微流控病原体筛查管理平台 V1.0</h3><p><strong>登记号：</strong>2025SR1361608</p><p><strong>证书号：</strong>软著登字第 16017806 号</p><p><strong>角色：</strong>第一著作权人</p></div>
+  <div class="academic-card"><h3>氮化镓微流控病原体检测平台 V1.0</h3><p><strong>登记号：</strong>2025SR1432088</p><p><strong>证书号：</strong>软著登字第 16088286 号</p><p><strong>角色：</strong>第一著作权人</p></div>
+</div>
