@@ -12,8 +12,8 @@ author_profile: true
   <p class="home-lead-en">I am an undergraduate student majoring in Optoelectronic Information Science and Engineering at Dalian University of Technology, with research interests in emerging semiconductor/optoelectronic devices, resistive memory, GaN-based micro/nano fabrication, distributed acoustic sensing, and lightweight intelligent models. My current research focuses on interface-engineered Ag/GaN/ITO memristors, DAS multi-event recognition with multi-time-frequency fusion and device-aware neural network mapping, and GaN HEMT-based microfluidic heterogeneous biochips. I am particularly interested in interdisciplinary research across materials, devices, circuits, physical computing, and intelligent algorithms.</p>
 
   <div class="contact-strip">
-    <a href="mailto:hpy_dut@163.com"><strong>邮箱</strong> hpy_dut@163.com</a>
-    <span><strong>电话 / wx</strong> 18830700235</span>
+    <a href="mailto:hpy_dut@163.com"><strong>E-mail:</strong> hpy_dut@163.com</a>
+    <span><strong>Tel:</strong> 18830700235</span>
   </div>
 
   <div class="quick-links">
